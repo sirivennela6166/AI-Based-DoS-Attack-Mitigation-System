@@ -73,23 +73,18 @@ python src/live_detection_mitigation.py
 ## 📸 Results
 
 ### 📊 Model Training (CICIDS2017)
-
 ![Training](confusionmatrix_2017.png)
 
 ### 📊 Model Validation (CIC-DDoS2019)
-
 ![Validation](confusionmatrix_2019.png)
 
-### 🚨 Attack Detection (Kali Linux Simulation)
+### 🚨 Attack Detection
+![Attack](attack_kali.png)
 
-![Attack](final%20attempt%20attack%20from%20kali%20.png)
-
-### 🛡️ Mitigation (Blocked IP)
-
-![Mitigation](blocked%20ip's%20final%20attempt.png)
+### 🛡️ Mitigation
+![Mitigation](blocked_ip.png)
 
 ### 📈 Additional Results
-
 ![2017 Results](2017_1.png)
 ![2019 Results](2019_1.png)
 
