@@ -1,0 +1,6 @@
+data/
+*.csv
+models/
+venv/
+logs/
+__pycache__/
